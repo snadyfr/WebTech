@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>How Many...</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="header"align="center">
+			<img src="arrow.png" alt="arrows" width="120" height="150" align="left">
+			<h1 class="title" align="center">How Many...?</h1>
+			<img src="arrow.png" alt="arrows" width="120" height="150" align="right">
+		</div>
+		
+		<div class="main">
+		<a href="" <h1 class="play" align="center">Play</h1></a>
+		</div>
+	</body>
+</html>

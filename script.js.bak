@@ -1,0 +1,3 @@
+function displayquestion(){
+	document.getElementById("question").innerHTML = ;
+}
