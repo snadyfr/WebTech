@@ -3,7 +3,7 @@ const quizData = [
 		//quiz questions
         question: "How many playstation 5 consoles have sold?",
         a: "17.3 million",
-        b: "15 million",
+        b: "15.7 million",
         c: "11.4 million",
         d: "20.2 million",
         correct: "d",
@@ -26,16 +26,16 @@ const quizData = [
     },
     {
         question: "How many turkeys are eaten at christmas in the uk each year?",
-        a: "3 million",
+        a: "11 million",
         b: "15 million",
         c: "10 million",
-        d: "9 million",
+        d: "20 million",
         correct: "b",
     },
 	{
 		question: "How many legs do shrimp have?",
-        a: "4",
-        b: "6",
+        a: "4 ",
+        b: "6 ",
         c: "10",
         d: "16",
         correct: "c",
@@ -45,7 +45,7 @@ const quizData = [
         a: "96",
         b: "89",
         c: "40",
-        d: "103",
+        d: "67",
         correct: "b",
 	},
 ];
